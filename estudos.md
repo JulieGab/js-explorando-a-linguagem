@@ -1,0 +1,1 @@
+- Podemos salvar valores dentro de variáveis, que são espaços dentro da memória do computador.
