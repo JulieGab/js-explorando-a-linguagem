@@ -1,1 +1,3 @@
 - Podemos salvar valores dentro de variáveis, que são espaços dentro da memória do computador.
+- JS é case sensitive.
+- É importante sempre declarar variáveis com "const" ou "let", pois isso evita problemas na hora de debugar o código
