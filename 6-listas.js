@@ -19,12 +19,12 @@ const listaDeCidades = [
 ]
 
 // adicionando mais itens à lista:
-listaDeCidades.push(`Floripa`)
+listaDeCidades.push(`Floripa`);
 
 // removendo itens da lista:
-listaDeCidades.splice(2,1)
+listaDeCidades.splice(2,1);
 // nesse caso, solicitei a remoção a partir do indice dois, e somente 1 elemento, removendo assim, Rio de janeiro
 
-console.log(listaDeCidades)
+console.log(listaDeCidades);
 // exibindo algum item específico:
-console.log(listaDeCidades[2])
+console.log(listaDeCidades[2]);
