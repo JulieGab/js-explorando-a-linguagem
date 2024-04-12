@@ -3,3 +3,4 @@
 - É importante sempre declarar variáveis com "const" ou "let", pois isso evita problemas na hora de debugar o código
 - O operador lógico AND é representado pelos caracteres && e o OR pelo ||.
 - Os operadores lógicos devem ter no lado esquerdo e direito uma expressão booleana.
+- O comando break interrompe o fluxo de execução do laço de maneira forçada, sem precisarmos atingir a condição de saída
